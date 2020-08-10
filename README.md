@@ -1,9 +1,6 @@
 ### Hi there, I am Priyank Patel 👋
 <p>I am a Full Stack .NET Software Engineer with more than 8 years of professional experience. I currently work for <a href="https://www.citiustech.com/default?location=worldwide">CitiusTech Inc.</a> I am interested in web development and love to learn new skills.</p>
 
-<div id="connect-with-me">
-</div>
-
 ### Connect with me
 
 [![Gmail Badge](https://img.shields.io/badge/-priyank89patel@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:priyank89patel@gmail.com)](mailto:priyank89patel@gmail.com)
@@ -16,6 +13,4 @@
 - 🌱 I’m currently learning ASP.NET Core, Entity Framework Core and other interesting tools/libraries in the new .NET Core ecosystem
 - 👯 I’m looking to collaborate on any project which will help me further my software development skills
 - 💬 Talk to me about anything sports and dogs
-- 📫 How to reach me: Use any of the [badges](#connect-with-me) above
-- 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
-- 👾 Fun fact: The GitHub profile contributions indicator <div style=width:4px;height:4px;background-color:green><div> is not a true indicator of one's software development skills :P
+- 📫 How to reach me: Use any of the badges above
